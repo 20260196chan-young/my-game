@@ -11,4 +11,3 @@ This is my first game project.
 \- Player movement
 
 \- Score system
-
